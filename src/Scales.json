@@ -1,0 +1,9 @@
+[
+  {"id": 0, "note": "C", "syllabic": "Do"},
+  {"id": 2, "note": "D", "syllabic": "Re"},
+  {"id": 4, "note": "E", "syllabic": "Mi"},
+  {"id": 5, "note": "F", "syllabic": "Fa"},
+  {"id": 7, "note": "G", "syllabic": "Sol"},
+  {"id": 9, "note": "A", "syllabic": "La"},
+  {"id": 11, "note": "B", "syllabic": "Si"}
+]

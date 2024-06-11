@@ -1,0 +1,66 @@
+root {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+}
+
+.content {
+  flex: 1 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#svg-container, .button-container {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  margin: 5px;
+  width: 300px !important;
+  height: auto;
+}
+
+svg{
+  height: auto;
+  width: fit-content;
+}
+
+/* NavBar */
+
+.nav-bar {
+  background-color: white;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 50px;
+  border-bottom: 1px solid lightgray;
+  margin-bottom: 30px;
+}
+
+.nav-bar button {
+  border: 1px solid;
+  width: 10%;
+  height: 60%;
+  background: none;
+}
+
+.nav-bar button:hover {
+  transform: scale(1.3);
+  transition: transform 0.3s;
+  cursor: pointer;
+}
+
+.piano {
+  display: flex;
+  justify-content: center;
+  text-align: -webkit-center;
+}
