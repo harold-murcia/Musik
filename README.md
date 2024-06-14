@@ -13,3 +13,4 @@ App to practice which line or space in a Musical Staff is which note.
 - Deploy it on a public page
 - Verify the SEO
 - Accesibility
+- Responsive
