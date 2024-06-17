@@ -12,7 +12,8 @@ app for practicing and recognizing notes on each line and space within a musical
   - Play against time
   - Break you record (how many notas in x time)
   - Free mode
-- Sound 
+- Sound
+- add sharp and flat
 - A function that allow the user to add more scales
 - Allow you to change the Clef
 - Some kind of alert when you click the right or the wrong 
