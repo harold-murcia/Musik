@@ -11,7 +11,8 @@
 }
 
 .content {
-  flex: 1 0 auto;
+  /* flex: 1 0 auto; */
+  height: 25vh;
   display: flex;
   flex-direction: column;
   align-items: center;
