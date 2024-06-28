@@ -6,6 +6,7 @@ app for practicing and recognizing notes on each line and space within a musical
 ### v1.0
 - Simple app that shows a note on a musical staff and you have to guess what note is on a keyboard.
 
+
 ### Future plan
 - Options menu instead of leves, to config:
   - Amount of scales
